@@ -8,3 +8,9 @@ ideal solution: a data visualization pipeline that communicates uncertainty and 
 suggested approaches:
 - exploring different ways to visualize error and uncertainty 
 - interactive plots with attached metadata
+
+used data for test:
+I will use the data Richard Dewhurst's Museums study, i.e. the recordings JR_D_S and JR_D_W, 
+along with the reference image mapper for 'multiple_image_standing'
+
+The recordings won't be included in this github repo.
